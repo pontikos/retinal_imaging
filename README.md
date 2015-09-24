@@ -1,5 +1,8 @@
 # Image Processing of Retinal Photos
 
+
+![optical disc and macula](https://raw.githubusercontent.com/pontikos/retinal_imaging/master/images/Figure-41.jpg "Light image")
+
 Image processing of retinal images.  Identification of veins (angiography) or various other features.
 
 This is a good resource: http://retinagallery.com/
