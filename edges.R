@@ -7,11 +7,11 @@ plot( boundaries(r, type='outer') )
 plot( boundaries(r, classes=TRUE) )
 
 library(jpeg)
-img <- readJPEG('~/Desktop/Figure-41.jpg')
+img <- readJPEG('images/Figure-41.jpg')
 
 
 library(EBImage)
-img <- readImage('~/Desktop/Figure-41.jpg')
+img <- readImage('images/Figure-41.jpg')
 colorMode(img)<-Grayscale
 colorMode(img)<-Color
 
